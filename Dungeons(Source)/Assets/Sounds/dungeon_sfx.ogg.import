@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dungeon_sfx.ogg-9167928b065175698e5162eb7e4d732d.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/dungeon_sfx.ogg"
+dest_files=[ "res://.import/dungeon_sfx.ogg-9167928b065175698e5162eb7e4d732d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
