@@ -25,7 +25,7 @@ The point of this game is to demonstrate the room generation and the modular des
 
 #### References and Credits
 1) Sounds: 
-  * [RPG sounds from "artisticdude"](https://opengameart.org/content/rpg-sound-pack)
+  	* [RPG sounds from "artisticdude"](https://opengameart.org/content/rpg-sound-pack)
 	* [Level Up Magic Sound (CC0)](https://opengameart.org/content/magic-spell-sfx)
 	* [Death Sound from "luminousfridge"](https://freesound.org/people/luminousfridge/sounds/409343/)
 	* [Running Sound from "Juandamb"](https://freesound.org/people/Juandamb/sounds/430708/)
@@ -34,4 +34,4 @@ The point of this game is to demonstrate the room generation and the modular des
 2) Art:
 	* [Player Model (CC0) ($1)](https://rgsdev.itch.io/pixel-art-animated-skeleton-character-pack-rgsdev)
 	* [Monsters (CC0)](https://superdark.itch.io/enchanted-forest-characters)
-	* [TileSet ](https://szadiart.itch.io- https://szadiart.itch.io/rogue-fantasy-catacombs)
+	* TileSet By [szadiart](https://szadiart.itch.io); [Source](https://szadiart.itch.io/rogue-fantasy-catacombs)
