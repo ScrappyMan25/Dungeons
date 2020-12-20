@@ -34,4 +34,4 @@ The point of this game is to demonstrate the room generation and the modular des
 2) Art:
 	* [Player Model (CC0) ($1)](https://rgsdev.itch.io/pixel-art-animated-skeleton-character-pack-rgsdev)
 	* [Monsters (CC0)](https://superdark.itch.io/enchanted-forest-characters)
-	* [TileSet](https://szadiart.itch.io- https://szadiart.itch.io/rogue-fantasy-catacombs)
+	* [TileSet ](https://szadiart.itch.io- https://szadiart.itch.io/rogue-fantasy-catacombs)
